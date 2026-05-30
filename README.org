@@ -1,3 +1,4 @@
+#+options: num:nil
 * eterm-256color
 [[https://melpa.org/#/eterm-256color][file:https://melpa.org/packages/eterm-256color-badge.svg]]
 [[https://stable.melpa.org/#/eterm-256color][file:https://stable.melpa.org/packages/eterm-256color-badge.svg]]

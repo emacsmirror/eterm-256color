@@ -2,8 +2,8 @@
 
 ;; Copyright (C) 2017 Diego A. Mundo
 ;; Author: Diego A. Mundo <dieggsy@pm.me>
-;; URL: http://github.com/dieggsy/eterm-256color
-;; Git-Repository: git://github.com/dieggsy/eterm-256color
+;; URL: https://sr.ht/~dieggsy/eterm-256color
+;; Git-Repository: https://git.sr.ht/~dieggsy/eterm-256color
 ;; Created: 2017-11-01
 ;; Version: 0.3.14
 ;; Keywords: faces
